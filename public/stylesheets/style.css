@@ -1,0 +1,24 @@
+html { height: 100%; }
+body { background-color: #F2E6CE; color: #1D1D1F; font-family: Helvetica; padding-bottom: 50px; position: relative; height: 100%; }
+
+/* type */
+.Note { font-size: 75%; }
+.Header1 { font-size: 200%; }
+.Header2 { font-size: 175%; }
+
+ul { margin: 10px; }
+  ul li { margin: 5px 0; }
+
+/* layout */
+#header { background-color: #1D1D1F; color: #8AB29F; padding: 20px; }
+  #header h1 { text-shadow: 0 0 5px rgba(0,0,0,0.75); text-align: right; }
+  #header .tag { color: #fff; color: rgba(255,255,255,.45); text-align: right; margin-right: 12px; }
+
+#main { margin: 20px; }
+  #main a { color: #8AB29F; text-decoration: none; }
+    #main a:hover { text-decoration: underline; }
+
+.postBody {  }
+  .postBody p { margin: 10px 0; }
+
+#footer { position: absolute; bottom: 0; background-color: #593325; padding: 20px; left: 0; right: 0; color: #fff; color: rgba(255,255,255,.5); }

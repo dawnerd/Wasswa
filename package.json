@@ -1,0 +1,8 @@
+{
+    "name": "wasswa"
+  , "version": "0.0.1"
+  , "private": false
+  , "dependencies": {
+    "jade": ">= 0.0.1"
+  }
+}
